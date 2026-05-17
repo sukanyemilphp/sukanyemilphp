@@ -1,78 +1,49 @@
-# 👋 Hello, I'm Yobel Imanuel!
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI1cTRiajN0dzlmcjR4YnlhOTFsdWlvMGxqNjJrZjZxbWdybmNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZMBEUie0sSjqWPQQkg/giphy.gif" alt="Banner GIF" width="100%" style="border-radius: 10px;" />
 
-![bebop GIF](filenew/gifbebop.webp)
+  <br />
 
-## 🚀 Frontend Developer
-
-_"Every action will cause a reaction."_
-
----
-
-### ⚡️ Languages and Tools I Use
-
-<div>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="42" height="42" />
-  </a>
+  # 👋 Hello, I'm Yobel Imanuel!
+  
+  ### 🚀 Frontend Developer
+  
+  _"Every action will cause a reaction."_
+  
+  <p align="center">
+    <a href="https://www.instagram.com/YobelImanuell">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 </div>
 
 ---
 
-### ⚡️ Where to Find Me
+### 👨‍💻 About Me
+- 🌱 I’m currently learning **Next.js** for SSR applications and **TypeScript** for static typing.
+- 🤝 Always open to collaborate on projects, share ideas, or just say hi!
 
-<p>
-  <a target="_blank" href="https://www.instagram.com/YobelImanuell" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" />
-  </a>
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
 </p>
 
----
-
 ### 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en" alt="ShiroLux" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ShiroLux GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 </div>
 
 ---
 
-### 🌱 I’m currently learning...
-
-- **Next.js** for building server-side rendered React applications
-- **TypeScript** for adding static types to JavaScript
-
----
-
-### 🤝 Let's Connect!
-
-Feel free to reach out if you want to collaborate on projects, share ideas, or just say hi!
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ShiroLux&color=blueviolet)
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=ShiroLux&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div>
