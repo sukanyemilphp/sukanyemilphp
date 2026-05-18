@@ -19,16 +19,6 @@
 
 ## 👨‍💻 About Me
 
-const yobel = {
-  name:     "Yobel Imanuel",
-  role:     "Frontend Developer & UI/UX Designer",
-  location: "Indonesia 🇮🇩",
-  learning: ["Next.js", "TypeScript"],
-  skills:   ["JavaScript", "Python", "PHP", "Flutter", "Tailwind CSS", "UI/UX"],
-  passions: ["Clean UI", "Pixel-perfect design", "Open collaboration"],
-  funFact:  "I treat every component like it's going on a portfolio.",
-};
-
 - 🌱 Currently leveling up with **Next.js** (SSR) & **TypeScript** (static typing)
 - 🎨 Obsessed with design systems, component libraries, and clean interfaces
 - 🤝 Always open to collabs, idea exchanges, or even just a friendly hello
