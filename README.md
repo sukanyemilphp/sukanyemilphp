@@ -55,11 +55,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShiroLux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiroLux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShiroLux&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak" width="49%" />
 </div>
 
