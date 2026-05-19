@@ -67,7 +67,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShiroLux&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sukanyemilphp&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 ---
